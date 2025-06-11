@@ -1,6 +1,8 @@
-# 道路统计分析工具
+# 道路统计分析工具 / Road Helper Map Tool
 
 一个基于OpenStreetMap数据的道路统计分析工具，支持多种查询方式和数据可视化。
+
+A road statistical analysis tool based on OpenStreetMap data, supporting multiple query methods and data visualization.
 
 ## 功能特点
 
@@ -140,4 +142,4 @@ MIT License
 
 ## 贡献
 
-欢迎提交Issues和Pull Requests来改进这个项目。 
+欢迎提交Issues和Pull Requests来改进这个项目。
